@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: bc719b0d814f76047a5654b9166147c3
+timeCreated: 1472147040
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: michio_0
+    21300002: michio_1
+    21300004: michio_2
+    21300006: michio_3
+    21300008: michio_4
+    21300010: michio_5
+    21300012: michio_6
+    21300014: michio_7
+    21300016: michio_8
+    21300018: michio_9
+    21300020: michio_10
+    21300022: michio_11
+    21300024: michio_12
+    21300026: michio_13
+    21300028: michio_14
+    21300030: michio_15
+    21300032: michio_16
+    21300034: michio_17
+    21300036: michio_18
+    21300038: michio_19
+    21300040: michio_20
+    21300042: michio_21
+    21300044: michio_22
+    21300046: michio_23
+    21300048: michio_24
+    21300050: michio_25
+    21300052: michio_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: michio_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 146
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 146
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 146
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 146
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 146
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 146
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23.5}
+        - {x: -17, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 17, y: -11.5}
+        - {x: 17, y: 10.5}
+        - {x: 13, y: 23.5}
+    - name: michio_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 146
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -17, y: 22}
+        - {x: -19, y: 20}
+        - {x: -19, y: -16}
+        - {x: -13, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: 16}
+        - {x: 15, y: 20}
+    - name: michio_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 146
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 146
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 23.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -16.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 16.5, y: -7.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 13.5, y: 20.5}
+    - name: michio_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 146
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -15.5}
+        - {x: 28, y: -16.5}
+        - {x: 28, y: -5.5}
+        - {x: 15, y: 22.5}
+        - {x: -28, y: 22.5}
+        - {x: -28, y: -22.5}
+        - {x: 4, y: -22.5}
+        - {x: 4, y: -21.5}
+        - {x: 2, y: -13.5}
+    - name: michio_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 82
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 25.5}
+        - {x: -14.5, y: 25.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -17.5, y: 6.5}
+        - {x: -17.5, y: -25.5}
+        - {x: -1.5, y: -25.5}
+        - {x: 16.5, y: -19.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 17.5, y: 22.5}
+    - name: michio_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 82
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 24.5}
+        - {x: -18.5, y: 10.5}
+        - {x: -18.5, y: -16.5}
+        - {x: -10.5, y: -16.5}
+        - {x: 4.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 18.5, y: -12.5}
+        - {x: 18.5, y: 24.5}
+    - name: michio_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 82
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25}
+        - {x: -16, y: -20}
+        - {x: -13, y: -20}
+        - {x: -11, y: -18}
+        - {x: -6, y: -24}
+        - {x: -5, y: -25}
+        - {x: 5, y: -25}
+        - {x: 10, y: -23}
+        - {x: 16, y: -12}
+        - {x: 16, y: 25}
+    - name: michio_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 26}
+        - {x: -16.5, y: 26}
+        - {x: -16.5, y: -26}
+        - {x: -1.5, y: -26}
+        - {x: 15.5, y: -18}
+        - {x: 16.5, y: -12}
+        - {x: 16.5, y: 23}
+    - name: michio_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 82
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 26.5}
+        - {x: -12, y: 26.5}
+        - {x: -18, y: 23.5}
+        - {x: -18, y: -22.5}
+        - {x: -7, y: -26.5}
+        - {x: 18, y: -26.5}
+        - {x: 18, y: 21.5}
+        - {x: 17, y: 24.5}
+    - name: michio_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 82
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25.5}
+        - {x: -17, y: -23.5}
+        - {x: -15, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 17, y: -24.5}
+        - {x: 17, y: 21.5}
+        - {x: 15, y: 25.5}
+    - name: michio_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 82
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 82
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 82
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -17, y: -24}
+        - {x: 17, y: -24}
+        - {x: 17, y: 23}
+        - {x: 13, y: 24}
+    - name: michio_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 82
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: michio_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 22.5}
+        - {x: -28, y: -22.5}
+        - {x: 19, y: -22.5}
+        - {x: 28, y: -11.5}
+        - {x: 28, y: 13.5}
+        - {x: 17, y: 22.5}
+    - name: michio_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 19}
+        - {x: 9, y: 22}
+        - {x: -9, y: 22}
+        - {x: -17, y: 15}
+        - {x: -25, y: 5}
+        - {x: -25, y: -15}
+        - {x: -6, y: -22}
+        - {x: 25, y: -22}
+        - {x: 25, y: 16}
+        - {x: 21, y: 19}
+    - name: michio_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -18.5}
+        - {x: 26.5, y: -18.5}
+        - {x: 26.5, y: 2.5}
+        - {x: 7.5, y: 18.5}
+        - {x: -22.5, y: 18.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -26.5, y: -17.5}
+        - {x: -25.5, y: -18.5}
+        - {x: 0.5, y: -18.5}
+        - {x: 1.5, y: -17.5}
+        - {x: 1.5, y: -14.5}
+    - name: michio_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 18
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -18}
+        - {x: 25, y: -18}
+        - {x: 25, y: -3}
+        - {x: 6, y: 18}
+        - {x: -23, y: 18}
+        - {x: -25, y: 10}
+        - {x: -25, y: -18}
+        - {x: 0, y: -18}
+        - {x: 0, y: -14}
+    - name: michio_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 18
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -20.5}
+        - {x: -17, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 19, y: 13.5}
+        - {x: 6, y: 19.5}
+      - - {x: 7, y: 6.5}
+        - {x: 10, y: 7.5}
+        - {x: 10, y: 10.5}
+        - {x: 7, y: 11.5}
+        - {x: 5, y: 9.5}
+      - - {x: 13, y: 7.5}
+        - {x: 16, y: 8.5}
+        - {x: 16, y: 11.5}
+        - {x: 13, y: 12.5}
+        - {x: 11, y: 10.5}
+      - - {x: -17, y: 13.5}
+        - {x: -14, y: 14.5}
+        - {x: -14, y: 17.5}
+        - {x: -17, y: 18.5}
+        - {x: -19, y: 16.5}
+      - - {x: 10, y: 19.5}
+        - {x: 8, y: 19.5}
+        - {x: 7, y: 17.5}
+        - {x: 7, y: 13.5}
+        - {x: 15, y: 13.5}
+        - {x: 16, y: 14.5}
+        - {x: 16, y: 17.5}
+      - - {x: -11, y: 19.5}
+        - {x: -8, y: 20.5}
+        - {x: -8, y: 23.5}
+        - {x: -12, y: 23.5}
+        - {x: -13, y: 22.5}
+      - - {x: 4, y: 19.5}
+        - {x: 7, y: 20.5}
+        - {x: 7, y: 23.5}
+        - {x: 3, y: 23.5}
+        - {x: 2, y: 22.5}
+      - - {x: -2, y: 21.5}
+        - {x: -2, y: 23.5}
+        - {x: -7, y: 23.5}
+        - {x: -5, y: 20.5}
+    - name: michio_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 29
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22}
+        - {x: -20.5, y: 21}
+        - {x: -24.5, y: 7}
+        - {x: -24.5, y: -22}
+        - {x: 14.5, y: -22}
+        - {x: 24.5, y: -8}
+        - {x: 24.5, y: 18}
+        - {x: 22.5, y: 22}
+    - name: michio_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 18
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
